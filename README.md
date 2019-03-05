@@ -1,6 +1,6 @@
 # rk2015-data
 
-Vabariigi valimisteenistus ei lase geriljaavaandmeid riigi avaandmete varamusse lisada põhjendusega, et need [rikuvad häid praktikaid](https://github.com/okestonia/jkan/commit/ecd729a20cba67ff67ed9336d38a73f0f5035cfa?fbclid=IwAR2SezL2VlxGaLLwdZkQui1PuOa1-88up6kzYgputsHSSLO75glq09WcTjk). Ise ei tee, teistel ei lase — _sic transit gloria mundi_!
+Vabariigi valimisteenistus palus selle geriljaavaandmete paketi riigi avaandmete varamust eemaldada põhjendusega, et see [rikub häid praktikaid](https://github.com/okestonia/jkan/commit/ecd729a20cba67ff67ed9336d38a73f0f5035cfa?fbclid=IwAR2SezL2VlxGaLLwdZkQui1PuOa1-88up6kzYgputsHSSLO75glq09WcTjk). Ise [seadusega ette nähtud kohustust](https://www.riigiteataja.ee/akt/107122018009?leiaKehtiv#para29lg3) ei täida, teistel aidata ei lase — _sic transit gloria mundi_!
 
 Allalaaditud andmeid koondav LibreOffice'i arvutustabel on [see siin](https://github.com/infoaed/rk2015-data/blob/master/rk2015-full.ods).
 
