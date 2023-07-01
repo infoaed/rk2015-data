@@ -1,0 +1,8722 @@
+[
+  {
+    "number": 713,
+    "name": "Edgar Savisaar",
+    "votes": 25057,
+    "electronic": 1835,
+    "abroad": 59,
+    "mandate": "Isikumandaat",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 297,
+    "name": "Taavi Rõivas",
+    "votes": 15881,
+    "electronic": 6423,
+    "abroad": 26,
+    "mandate": "Isikumandaat",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 768,
+    "name": "Yana Toom",
+    "votes": 11574,
+    "electronic": 746,
+    "abroad": 1,
+    "mandate": "Isikumandaat",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 702,
+    "name": "Mihhail Kõlvart",
+    "votes": 10996,
+    "electronic": 869,
+    "abroad": 16,
+    "mandate": "Isikumandaat",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 737,
+    "name": "Jüri Ratas",
+    "votes": 7932,
+    "electronic": 1102,
+    "abroad": 11,
+    "mandate": "Isikumandaat",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 287,
+    "name": "Urmas Paet",
+    "votes": 7868,
+    "electronic": 3423,
+    "abroad": 21,
+    "mandate": "Isikumandaat",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 377,
+    "name": "Toomas Kivimägi",
+    "votes": 7603,
+    "electronic": 2511,
+    "abroad": 12,
+    "mandate": "Isikumandaat",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 612,
+    "name": "Artur Talvik",
+    "votes": 7308,
+    "electronic": 3293,
+    "abroad": 12,
+    "mandate": "Isikumandaat",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 337,
+    "name": "Jürgen Ligi",
+    "votes": 6757,
+    "electronic": 2523,
+    "abroad": 8,
+    "mandate": "Isikumandaat",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 252,
+    "name": "Mart Helme",
+    "votes": 6714,
+    "electronic": 1516,
+    "abroad": 10,
+    "mandate": "Isikumandaat",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 346,
+    "name": "Urmas Kruuse",
+    "votes": 5960,
+    "electronic": 2086,
+    "abroad": 3,
+    "mandate": "Isikumandaat",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 356,
+    "name": "Ants Laaneots",
+    "votes": 5920,
+    "electronic": 2048,
+    "abroad": 17,
+    "mandate": "Isikumandaat",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 817,
+    "name": "Kadri Simson",
+    "votes": 5726,
+    "electronic": 646,
+    "abroad": 9,
+    "mandate": "Isikumandaat",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 273,
+    "name": "Keit Pentus-Rosimannus",
+    "votes": 5716,
+    "electronic": 2846,
+    "abroad": 18,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 862,
+    "name": "Sven Mikser",
+    "votes": 4969,
+    "electronic": 1830,
+    "abroad": 8,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 262,
+    "name": "Kristen Michal",
+    "votes": 4766,
+    "electronic": 2394,
+    "abroad": 11,
+    "mandate": "Ringkonnamandaat",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 172,
+    "name": "Henn Põlluaas",
+    "votes": 4309,
+    "electronic": 1283,
+    "abroad": 10,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 162,
+    "name": "Martin Helme",
+    "votes": 4296,
+    "electronic": 1205,
+    "abroad": 22,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 588,
+    "name": "Andres Herkel",
+    "votes": 4227,
+    "electronic": 1941,
+    "abroad": 14,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 422,
+    "name": "Juhan Parts",
+    "votes": 4208,
+    "electronic": 1648,
+    "abroad": 10,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 357,
+    "name": "Anne Sulling",
+    "votes": 4197,
+    "electronic": 1877,
+    "abroad": 7,
+    "mandate": "Ringkonnamandaat",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 852,
+    "name": "Rainer Vakra",
+    "votes": 4132,
+    "electronic": 1383,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 313,
+    "name": "Urve Tiidus",
+    "votes": 4117,
+    "electronic": 1554,
+    "abroad": 10,
+    "mandate": "Ringkonnamandaat",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 602,
+    "name": "Ain Lutsepp",
+    "votes": 4109,
+    "electronic": 1755,
+    "abroad": 9,
+    "mandate": "Ringkonnamandaat",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 288,
+    "name": "Maris Lauri",
+    "votes": 4019,
+    "electronic": 2250,
+    "abroad": 8,
+    "mandate": "Ringkonnamandaat",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 931,
+    "name": "Ivari Padar",
+    "votes": 3992,
+    "electronic": 1184,
+    "abroad": 6,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 902,
+    "name": "Helmen Kütt",
+    "votes": 3817,
+    "electronic": 983,
+    "abroad": 8,
+    "mandate": "Ringkonnamandaat",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 366,
+    "name": "Hanno Pevkur",
+    "votes": 3816,
+    "electronic": 1400,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 827,
+    "name": "Eiki Nestor",
+    "votes": 3744,
+    "electronic": 1678,
+    "abroad": 10,
+    "mandate": "Ringkonnamandaat",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 769,
+    "name": "Mihhail Stalnuhhin",
+    "votes": 3648,
+    "electronic": 227,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 838,
+    "name": "Andres Anvelt",
+    "votes": 3558,
+    "electronic": 1499,
+    "abroad": 12,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 730,
+    "name": "Rein Ratas",
+    "votes": 3449,
+    "electronic": 306,
+    "abroad": 3,
+    "mandate": "Ringkonnamandaat",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 806,
+    "name": "Heimar Lenk",
+    "votes": 3398,
+    "electronic": 279,
+    "abroad": 3,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 263,
+    "name": "Heidy Purga",
+    "votes": 3283,
+    "electronic": 1795,
+    "abroad": 13,
+    "mandate": "Ringkonnamandaat",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 921,
+    "name": "Mihkel Raud",
+    "votes": 3229,
+    "electronic": 1141,
+    "abroad": 10,
+    "mandate": "Ringkonnamandaat",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 321,
+    "name": "Valdo Randpere",
+    "votes": 3170,
+    "electronic": 1161,
+    "abroad": 7,
+    "mandate": "Ringkonnamandaat",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 777,
+    "name": "Mailis Reps",
+    "votes": 2981,
+    "electronic": 369,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 412,
+    "name": "Urmas Reinsalu",
+    "votes": 2949,
+    "electronic": 1152,
+    "abroad": 20,
+    "mandate": "Ringkonnamandaat",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 462,
+    "name": "Helir-Valdor Seeder",
+    "votes": 2908,
+    "electronic": 928,
+    "abroad": 7,
+    "mandate": "Ringkonnamandaat",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 786,
+    "name": "Marika Tuus-Laul",
+    "votes": 2904,
+    "electronic": 249,
+    "abroad": 0,
+    "mandate": "Ringkonnamandaat",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 423,
+    "name": "Marko Mihkelson",
+    "votes": 2842,
+    "electronic": 1525,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 893,
+    "name": "Jevgeni Ossinovski",
+    "votes": 2784,
+    "electronic": 589,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 300,
+    "name": "Yoko Alender",
+    "votes": 2715,
+    "electronic": 1379,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 446,
+    "name": "Marko Pomerants",
+    "votes": 2681,
+    "electronic": 936,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 309,
+    "name": "Madis Milling",
+    "votes": 2580,
+    "electronic": 1260,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 761,
+    "name": "Siret Kotka",
+    "votes": 2558,
+    "electronic": 210,
+    "abroad": 4,
+    "mandate": "Ringkonnamandaat",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 671,
+    "name": "Krista Aru",
+    "votes": 2529,
+    "electronic": 933,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 274,
+    "name": "Arto Aas",
+    "votes": 2517,
+    "electronic": 1491,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 577,
+    "name": "Neeme Kuningas",
+    "votes": 2432,
+    "electronic": 1081,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 188,
+    "name": "Helle-Moonika Helme",
+    "votes": 2399,
+    "electronic": 627,
+    "abroad": 6,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 265,
+    "name": "Vilja Savisaar-Toomast",
+    "votes": 2395,
+    "electronic": 1115,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 314,
+    "name": "Kalle Laanet",
+    "votes": 2388,
+    "electronic": 934,
+    "abroad": 4,
+    "mandate": "Ringkonnamandaat",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 367,
+    "name": "Liina Kersna",
+    "votes": 2387,
+    "electronic": 887,
+    "abroad": 3,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 387,
+    "name": "Ken-Marti Vaher",
+    "votes": 2313,
+    "electronic": 963,
+    "abroad": 9,
+    "mandate": "Ringkonnamandaat",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 912,
+    "name": "Tanel Talve",
+    "votes": 2294,
+    "electronic": 691,
+    "abroad": 6,
+    "mandate": "Ringkonnamandaat",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 481,
+    "name": "Margus Tsahkna",
+    "votes": 2267,
+    "electronic": 711,
+    "abroad": 9,
+    "mandate": "Ringkonnamandaat",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 753,
+    "name": "Enn Eesmaa",
+    "votes": 2219,
+    "electronic": 275,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 503,
+    "name": "Andres Metsoja",
+    "votes": 2207,
+    "electronic": 760,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 886,
+    "name": "Rannar Vassiljev",
+    "votes": 2172,
+    "electronic": 623,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 796,
+    "name": "Aadu Must",
+    "votes": 2139,
+    "electronic": 223,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 278,
+    "name": "Imre Sooäär",
+    "votes": 2102,
+    "electronic": 1110,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 137,
+    "name": "Urmas Espenberg",
+    "votes": 2087,
+    "electronic": 646,
+    "abroad": 8,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 934,
+    "name": "Kalvi Kõva",
+    "votes": 2081,
+    "electronic": 554,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 196,
+    "name": "Anti Poolamets",
+    "votes": 2080,
+    "electronic": 533,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 301,
+    "name": "Aivar Sõerd",
+    "votes": 2047,
+    "electronic": 1156,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 922,
+    "name": "Heljo Pikhof",
+    "votes": 2042,
+    "electronic": 482,
+    "abroad": 3,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 878,
+    "name": "Hannes Hanso",
+    "votes": 2038,
+    "electronic": 823,
+    "abroad": 3,
+    "mandate": "Ringkonnamandaat",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 863,
+    "name": "Urve Palo",
+    "votes": 2028,
+    "electronic": 709,
+    "abroad": 1,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 438,
+    "name": "Raivo Aeg",
+    "votes": 2001,
+    "electronic": 618,
+    "abroad": 12,
+    "mandate": "Ringkonnamandaat",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 347,
+    "name": "Igor Gräzin",
+    "votes": 1973,
+    "electronic": 701,
+    "abroad": 6,
+    "mandate": "Ringkonnamandaat",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 714,
+    "name": "Olga Ivanova",
+    "votes": 1948,
+    "electronic": 217,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 942,
+    "name": "Indrek Saar",
+    "votes": 1944,
+    "electronic": 597,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 289,
+    "name": "Eerik-Niiles Kross",
+    "votes": 1944,
+    "electronic": 889,
+    "abroad": 9,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 148,
+    "name": "Mare Liiger",
+    "votes": 1924,
+    "electronic": 499,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 299,
+    "name": "Kalle Palling",
+    "votes": 1917,
+    "electronic": 627,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 726,
+    "name": "Mihhail Korb",
+    "votes": 1904,
+    "electronic": 193,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 212,
+    "name": "Jaak Madison",
+    "votes": 1883,
+    "electronic": 443,
+    "abroad": 2,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 221,
+    "name": "Malle Pärn",
+    "votes": 1867,
+    "electronic": 457,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 703,
+    "name": "Viktor Vassiljev",
+    "votes": 1862,
+    "electronic": 206,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 628,
+    "name": "Andres Ammas",
+    "votes": 1859,
+    "electronic": 718,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 729,
+    "name": "Erki Savisaar",
+    "votes": 1826,
+    "electronic": 104,
+    "abroad": 3,
+    "mandate": "Ringkonnamandaat",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 388,
+    "name": "Liisa-Ly Pakosta",
+    "votes": 1808,
+    "electronic": 894,
+    "abroad": 13,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 241,
+    "name": "Uno Kaskpeit",
+    "votes": 1807,
+    "electronic": 450,
+    "abroad": 5,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 829,
+    "name": "Aleksei Turovski",
+    "votes": 1787,
+    "electronic": 758,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 472,
+    "name": "Aivar Kokk",
+    "votes": 1725,
+    "electronic": 389,
+    "abroad": 0,
+    "mandate": "Ringkonnamandaat",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 808,
+    "name": "Tarmo Tamm",
+    "votes": 1721,
+    "electronic": 204,
+    "abroad": 0,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 298,
+    "name": "Laine Randjärv",
+    "votes": 1698,
+    "electronic": 715,
+    "abroad": 3,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 463,
+    "name": "Kaia Iva",
+    "votes": 1684,
+    "electronic": 522,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 425,
+    "name": "Tiina Kangro",
+    "votes": 1669,
+    "electronic": 693,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 727,
+    "name": "Arvo Sarapuu",
+    "votes": 1662,
+    "electronic": 128,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 629,
+    "name": "Enn Meri",
+    "votes": 1619,
+    "electronic": 600,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 231,
+    "name": "Imre Mürk",
+    "votes": 1577,
+    "electronic": 385,
+    "abroad": 14,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 502,
+    "name": "Annely Akkermann",
+    "votes": 1571,
+    "electronic": 504,
+    "abroad": 6,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 776,
+    "name": "Martin Repinski",
+    "votes": 1556,
+    "electronic": 124,
+    "abroad": 0,
+    "mandate": "Ringkonnamandaat",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 426,
+    "name": "Aivar Riisalu",
+    "votes": 1536,
+    "electronic": 653,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 358,
+    "name": "Urmas Klaas",
+    "votes": 1501,
+    "electronic": 465,
+    "abroad": 3,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 492,
+    "name": "Priit Sibul",
+    "votes": 1491,
+    "electronic": 374,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 911,
+    "name": "Jaan Õunapuu",
+    "votes": 1447,
+    "electronic": 413,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 280,
+    "name": "Ivi Eenmaa",
+    "votes": 1407,
+    "electronic": 688,
+    "abroad": 8,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 471,
+    "name": "Jaak Aaviksoo",
+    "votes": 1405,
+    "electronic": 577,
+    "abroad": 5,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 398,
+    "name": "Viktoria Ladõnskaja",
+    "votes": 1393,
+    "electronic": 747,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 399,
+    "name": "Sven Sester",
+    "votes": 1392,
+    "electronic": 629,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 264,
+    "name": "Remo Holsmer",
+    "votes": 1385,
+    "electronic": 780,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 736,
+    "name": "Igor Kravtšenko",
+    "votes": 1360,
+    "electronic": 92,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 378,
+    "name": "Jüri Jaanson",
+    "votes": 1328,
+    "electronic": 469,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 681,
+    "name": "Kaul Nurm",
+    "votes": 1315,
+    "electronic": 509,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 740,
+    "name": "Vladimir Velman",
+    "votes": 1294,
+    "electronic": 134,
+    "abroad": 0,
+    "mandate": "Ringkonnamandaat",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 712,
+    "name": "Märt Sults",
+    "votes": 1285,
+    "electronic": 131,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 797,
+    "name": "Marina Riisalu",
+    "votes": 1284,
+    "electronic": 72,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 389,
+    "name": "Tarmo Kruusimäe",
+    "votes": 1260,
+    "electronic": 618,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 411,
+    "name": "Juku-Kalle Raid",
+    "votes": 1257,
+    "electronic": 655,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 636,
+    "name": "Emil Rutiku",
+    "votes": 1243,
+    "electronic": 416,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 789,
+    "name": "Peeter Võsa",
+    "votes": 1235,
+    "electronic": 148,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 316,
+    "name": "Tarmo Mänd",
+    "votes": 1233,
+    "electronic": 385,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 879,
+    "name": "Neeme Suur",
+    "votes": 1213,
+    "electronic": 375,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 379,
+    "name": "Väino Linde",
+    "votes": 1206,
+    "electronic": 476,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 501,
+    "name": "Igor Taro",
+    "votes": 1202,
+    "electronic": 493,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 483,
+    "name": "Kalle Muuli",
+    "votes": 1196,
+    "electronic": 441,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 941,
+    "name": "Inara Luigas",
+    "votes": 1192,
+    "electronic": 257,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 323,
+    "name": "Marko Torm",
+    "votes": 1165,
+    "electronic": 381,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 779,
+    "name": "Kersti Sarapuu",
+    "votes": 1164,
+    "electronic": 127,
+    "abroad": 1,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 692,
+    "name": "Jüri Saar",
+    "votes": 1161,
+    "electronic": 448,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 733,
+    "name": "Margarita Tšernogorova",
+    "votes": 1159,
+    "electronic": 87,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 795,
+    "name": "Aleksandr Širokov",
+    "votes": 1137,
+    "electronic": 88,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 173,
+    "name": "Siim Pohlak",
+    "votes": 1128,
+    "electronic": 232,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 807,
+    "name": "Anneli Ott",
+    "votes": 1119,
+    "electronic": 129,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 276,
+    "name": "Urmas Sutrop",
+    "votes": 1109,
+    "electronic": 616,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 798,
+    "name": "Nikolai Põdramägi",
+    "votes": 1105,
+    "electronic": 68,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 707,
+    "name": "Andrei Novikov",
+    "votes": 1096,
+    "electronic": 90,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 661,
+    "name": "Märt Meesak",
+    "votes": 1094,
+    "electronic": 412,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 652,
+    "name": "Mati Ilisson",
+    "votes": 1075,
+    "electronic": 386,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 414,
+    "name": "Mart Nutt",
+    "votes": 1068,
+    "electronic": 484,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 277,
+    "name": "Ülle Rajasalu",
+    "votes": 1066,
+    "electronic": 519,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 754,
+    "name": "Jaanus Karilaid",
+    "votes": 1056,
+    "electronic": 106,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 424,
+    "name": "Andrus Saare",
+    "votes": 1054,
+    "electronic": 365,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 903,
+    "name": "Jaanus Marrandi",
+    "votes": 1050,
+    "electronic": 283,
+    "abroad": 1,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 770,
+    "name": "Valeri Korb",
+    "votes": 1046,
+    "electronic": 90,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 778,
+    "name": "Priit Toobal",
+    "votes": 1045,
+    "electronic": 92,
+    "abroad": 0,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 447,
+    "name": "Einar Vallbaum",
+    "votes": 1044,
+    "electronic": 283,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 368,
+    "name": "Meelis Mälberg",
+    "votes": 1040,
+    "electronic": 338,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 439,
+    "name": "Tõnis Palts",
+    "votes": 1033,
+    "electronic": 351,
+    "abroad": 8,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 578,
+    "name": "Külliki Kübarsepp",
+    "votes": 1032,
+    "electronic": 545,
+    "abroad": 5,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 400,
+    "name": "Erki Nool",
+    "votes": 1020,
+    "electronic": 409,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 275,
+    "name": "Nikolai Novosjolov",
+    "votes": 1016,
+    "electronic": 501,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 933,
+    "name": "Rein Randver",
+    "votes": 1003,
+    "electronic": 230,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 613,
+    "name": "Alar Mutli",
+    "votes": 995,
+    "electronic": 396,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 322,
+    "name": "Signe Kivi",
+    "votes": 995,
+    "electronic": 387,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 682,
+    "name": "Merle Jääger",
+    "votes": 986,
+    "electronic": 385,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 266,
+    "name": "Tiina Lokk-Tramberg",
+    "votes": 977,
+    "electronic": 568,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 348,
+    "name": "Mati Raidma",
+    "votes": 959,
+    "electronic": 397,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 735,
+    "name": "Eduard Toman",
+    "votes": 953,
+    "electronic": 118,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 728,
+    "name": "Merike Martinson",
+    "votes": 946,
+    "electronic": 106,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 222,
+    "name": "Raivo Põldaru",
+    "votes": 919,
+    "electronic": 186,
+    "abroad": 0,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 673,
+    "name": "Peeter Volkonski",
+    "votes": 916,
+    "electronic": 375,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 839,
+    "name": "Barbi-Jenny Pilvre-Storgard",
+    "votes": 909,
+    "electronic": 483,
+    "abroad": 8,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 324,
+    "name": "Toomas Varek",
+    "votes": 907,
+    "electronic": 278,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 706,
+    "name": "Karin Tammemägi",
+    "votes": 881,
+    "electronic": 66,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 913,
+    "name": "Jüri Morozov",
+    "votes": 870,
+    "electronic": 226,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 828,
+    "name": "Marianne Mikko",
+    "votes": 859,
+    "electronic": 402,
+    "abroad": 9,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 905,
+    "name": "Alo Aasma",
+    "votes": 857,
+    "electronic": 269,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 315,
+    "name": "Lauri Luik",
+    "votes": 855,
+    "electronic": 313,
+    "abroad": 3,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 352,
+    "name": "Toomas Järveoja",
+    "votes": 853,
+    "electronic": 295,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 932,
+    "name": "Sirje Tobreluts",
+    "votes": 849,
+    "electronic": 217,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 743,
+    "name": "Vladimir Arhipov",
+    "votes": 838,
+    "electronic": 63,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 788,
+    "name": "Peeter Ernits",
+    "votes": 824,
+    "electronic": 86,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 877,
+    "name": "Hardi Volmer",
+    "votes": 818,
+    "electronic": 307,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 923,
+    "name": "Toomas Jürgenstein",
+    "votes": 817,
+    "electronic": 381,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 402,
+    "name": "Riina Solman",
+    "votes": 810,
+    "electronic": 329,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 359,
+    "name": "Rait Maruste",
+    "votes": 808,
+    "electronic": 344,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 490,
+    "name": "Ene Ergma",
+    "votes": 798,
+    "electronic": 321,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 810,
+    "name": "Alar Nääme",
+    "votes": 798,
+    "electronic": 98,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 474,
+    "name": "Andres Arrak",
+    "votes": 794,
+    "electronic": 390,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 853,
+    "name": "Mart Meri",
+    "votes": 788,
+    "electronic": 355,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 662,
+    "name": "Elo Lutsepp",
+    "votes": 784,
+    "electronic": 317,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 369,
+    "name": "Margus Lepik",
+    "votes": 782,
+    "electronic": 291,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 910,
+    "name": "Liina Raud",
+    "votes": 774,
+    "electronic": 291,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 762,
+    "name": "Toomas Väinaste",
+    "votes": 773,
+    "electronic": 95,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 731,
+    "name": "Helle Kalda",
+    "votes": 771,
+    "electronic": 60,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 328,
+    "name": "Deniss Boroditš",
+    "votes": 769,
+    "electronic": 188,
+    "abroad": 1,
+    "mandate": "Ringkonnamandaat",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 453,
+    "name": "Anvar Samost",
+    "votes": 761,
+    "electronic": 293,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 331,
+    "name": "Aivar Surva",
+    "votes": 754,
+    "electronic": 222,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 339,
+    "name": "Johannes Kert",
+    "votes": 752,
+    "electronic": 322,
+    "abroad": 2,
+    "mandate": "Ringkonnamandaat",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 851,
+    "name": "Andrei Hvostov",
+    "votes": 740,
+    "electronic": 329,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 861,
+    "name": "Silver Meikar",
+    "votes": 738,
+    "electronic": 315,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 360,
+    "name": "Margus Hanson",
+    "votes": 733,
+    "electronic": 243,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 672,
+    "name": "Jüri Adams",
+    "votes": 720,
+    "electronic": 312,
+    "abroad": 3,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 460,
+    "name": "Tauno Võhmar",
+    "votes": 716,
+    "electronic": 271,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 341,
+    "name": "Kristjan Kõljalg",
+    "votes": 714,
+    "electronic": 302,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 338,
+    "name": "Kalle Jents",
+    "votes": 704,
+    "electronic": 218,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 799,
+    "name": "Artjom Suvorov",
+    "votes": 699,
+    "electronic": 59,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 203,
+    "name": "Arno Kodu",
+    "votes": 693,
+    "electronic": 200,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 708,
+    "name": "Marek Jürgenson",
+    "votes": 687,
+    "electronic": 107,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 904,
+    "name": "Ülle Lumi",
+    "votes": 684,
+    "electronic": 125,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 491,
+    "name": "Maire Aunaste",
+    "votes": 679,
+    "electronic": 173,
+    "abroad": 8,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 304,
+    "name": "Andre Sepp",
+    "votes": 679,
+    "electronic": 232,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 774,
+    "name": "Dmitri Dmitrijev",
+    "votes": 677,
+    "electronic": 57,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 318,
+    "name": "Urmas Sukles",
+    "votes": 661,
+    "electronic": 250,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 330,
+    "name": "Rein Aidma",
+    "votes": 655,
+    "electronic": 227,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 917,
+    "name": "Jaan Aiaots",
+    "votes": 654,
+    "electronic": 168,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 880,
+    "name": "Kalev Kotkas",
+    "votes": 649,
+    "electronic": 243,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 370,
+    "name": "Aivar Rosenberg",
+    "votes": 645,
+    "electronic": 195,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 291,
+    "name": "Paul-Eerik Rummo",
+    "votes": 642,
+    "electronic": 332,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 773,
+    "name": "Eevi Paasmäe",
+    "votes": 639,
+    "electronic": 42,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 907,
+    "name": "Arto Saar",
+    "votes": 621,
+    "electronic": 219,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 244,
+    "name": "Ants Taul",
+    "votes": 619,
+    "electronic": 137,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 306,
+    "name": "Mart Võrklaev",
+    "votes": 615,
+    "electronic": 340,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 945,
+    "name": "Mark Soosaar",
+    "votes": 613,
+    "electronic": 177,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 771,
+    "name": "Eldar Efendijev",
+    "votes": 607,
+    "electronic": 77,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 925,
+    "name": "Gea Kangilaski",
+    "votes": 595,
+    "electronic": 303,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 906,
+    "name": "Randel Länts",
+    "votes": 584,
+    "electronic": 205,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 428,
+    "name": "Mari-Ann Kelam",
+    "votes": 581,
+    "electronic": 270,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 868,
+    "name": "Raivo Uukkivi",
+    "votes": 578,
+    "electronic": 192,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 482,
+    "name": "Peeter Laurson",
+    "votes": 578,
+    "electronic": 173,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 704,
+    "name": "Kalev Kallo",
+    "votes": 575,
+    "electronic": 55,
+    "abroad": 2,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 267,
+    "name": "Ants Leemets",
+    "votes": 570,
+    "electronic": 286,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 404,
+    "name": "Lagle Parek",
+    "votes": 569,
+    "electronic": 245,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 894,
+    "name": "Etti Kagarov",
+    "votes": 569,
+    "electronic": 178,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 305,
+    "name": "Enno Fels",
+    "votes": 566,
+    "electronic": 204,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 850,
+    "name": "Karl-Martin Sinijärv",
+    "votes": 565,
+    "electronic": 283,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 362,
+    "name": "Martin Parmas",
+    "votes": 563,
+    "electronic": 167,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 349,
+    "name": "Terje Trei",
+    "votes": 557,
+    "electronic": 191,
+    "abroad": 1,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 413,
+    "name": "Siim Valmar Kiisler",
+    "votes": 556,
+    "electronic": 241,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 746,
+    "name": "Natalia Malleus",
+    "votes": 555,
+    "electronic": 61,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 308,
+    "name": "Anneliis Kõiv",
+    "votes": 549,
+    "electronic": 281,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 920,
+    "name": "Jaan Sõrra",
+    "votes": 546,
+    "electronic": 189,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 350,
+    "name": "Reno Laidre",
+    "votes": 544,
+    "electronic": 246,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 914,
+    "name": "Priit Lomp",
+    "votes": 543,
+    "electronic": 166,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 235,
+    "name": "Indrek Kalda",
+    "votes": 542,
+    "electronic": 101,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 494,
+    "name": "Ulla Preeden",
+    "votes": 539,
+    "electronic": 174,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 489,
+    "name": "Tõnu Lehtsaar",
+    "votes": 538,
+    "electronic": 184,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 887,
+    "name": "Kairit Pihlak",
+    "votes": 537,
+    "electronic": 174,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 332,
+    "name": "Aivar Saarela",
+    "votes": 535,
+    "electronic": 183,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 327,
+    "name": "Indrek Kesküla",
+    "votes": 532,
+    "electronic": 151,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 766,
+    "name": "Andres Sõber",
+    "votes": 530,
+    "electronic": 91,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 319,
+    "name": "Koit Kelder",
+    "votes": 529,
+    "electronic": 237,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 243,
+    "name": "Arno Sild",
+    "votes": 523,
+    "electronic": 78,
+    "abroad": 8,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 345,
+    "name": "Tõnu Juul",
+    "votes": 521,
+    "electronic": 108,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 653,
+    "name": "Arlet Palmiste",
+    "votes": 519,
+    "electronic": 205,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 372,
+    "name": "Agu Kabrits",
+    "votes": 519,
+    "electronic": 115,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 816,
+    "name": "Toomas Paur",
+    "votes": 511,
+    "electronic": 42,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 603,
+    "name": "Sergei Metlev",
+    "votes": 509,
+    "electronic": 252,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 801,
+    "name": "Igor Abarenkov",
+    "votes": 507,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 944,
+    "name": "Aet Maatee",
+    "votes": 504,
+    "electronic": 189,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 715,
+    "name": "Toomas Vitsut",
+    "votes": 503,
+    "electronic": 74,
+    "abroad": 0,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 919,
+    "name": "Asso Nettan",
+    "votes": 500,
+    "electronic": 218,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 317,
+    "name": "Kairi Uustulnd",
+    "votes": 497,
+    "electronic": 269,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 865,
+    "name": "Liisa Oviir",
+    "votes": 493,
+    "electronic": 223,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 711,
+    "name": "Anton Stalnuhhin",
+    "votes": 491,
+    "electronic": 62,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 493,
+    "name": "Ülo Tulik",
+    "votes": 490,
+    "electronic": 150,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 441,
+    "name": "Kaido Kaasik",
+    "votes": 478,
+    "electronic": 169,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 830,
+    "name": "Jaak Juske",
+    "votes": 476,
+    "electronic": 234,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 429,
+    "name": "Kaupo Rätsepp",
+    "votes": 475,
+    "electronic": 210,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 371,
+    "name": "Andrus Seeme",
+    "votes": 472,
+    "electronic": 169,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 637,
+    "name": "Elmu Koppelmann",
+    "votes": 469,
+    "electronic": 196,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 473,
+    "name": "Elle Kull",
+    "votes": 467,
+    "electronic": 178,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 818,
+    "name": "Marko Šorin",
+    "votes": 464,
+    "electronic": 46,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 467,
+    "name": "Ene Saar",
+    "votes": 463,
+    "electronic": 164,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 437,
+    "name": "Toomas Tõniste",
+    "votes": 462,
+    "electronic": 216,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 485,
+    "name": "Mihhail Lotman",
+    "votes": 460,
+    "electronic": 228,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 290,
+    "name": "Martin Kukk",
+    "votes": 456,
+    "electronic": 211,
+    "abroad": 0,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 764,
+    "name": "Jelena Fjodorova",
+    "votes": 455,
+    "electronic": 61,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 936,
+    "name": "Tarmo Tamm",
+    "votes": 452,
+    "electronic": 99,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 511,
+    "name": "Trivimi Velliste",
+    "votes": 451,
+    "electronic": 167,
+    "abroad": 13,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 590,
+    "name": "Monika Haukanõmm",
+    "votes": 450,
+    "electronic": 269,
+    "abroad": 1,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 589,
+    "name": "Jevgeni Krištafovitš",
+    "votes": 446,
+    "electronic": 250,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 190,
+    "name": "Urmas Selirand",
+    "votes": 442,
+    "electronic": 134,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 215,
+    "name": "Enn Sarv",
+    "votes": 441,
+    "electronic": 121,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 334,
+    "name": "Tiit Kuusmik",
+    "votes": 438,
+    "electronic": 126,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 780,
+    "name": "Helmut Hallemaa",
+    "votes": 435,
+    "electronic": 44,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 787,
+    "name": "Urbo Vaarmann",
+    "votes": 431,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 535,
+    "name": "Aleksei Lotman",
+    "votes": 430,
+    "electronic": 228,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 342,
+    "name": "Madis Timpson",
+    "votes": 430,
+    "electronic": 147,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 772,
+    "name": "Tarmo Tammiste",
+    "votes": 429,
+    "electronic": 55,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 528,
+    "name": "Valdur Lahtvee",
+    "votes": 427,
+    "electronic": 176,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 279,
+    "name": "Kalev Kallemets",
+    "votes": 423,
+    "electronic": 218,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 454,
+    "name": "Kaja Kreisman",
+    "votes": 421,
+    "electronic": 140,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 427,
+    "name": "Lauri Vahtre",
+    "votes": 419,
+    "electronic": 221,
+    "abroad": 7,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 340,
+    "name": "Peep Aru",
+    "votes": 416,
+    "electronic": 158,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 615,
+    "name": "Aimar Altosaar",
+    "votes": 413,
+    "electronic": 230,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 477,
+    "name": "Joel Luhamets",
+    "votes": 413,
+    "electronic": 136,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 365,
+    "name": "Valvo Semilarski",
+    "votes": 412,
+    "electronic": 151,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 344,
+    "name": "Rait Pihelgas",
+    "votes": 409,
+    "electronic": 159,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 373,
+    "name": "Peeter Sibul",
+    "votes": 408,
+    "electronic": 131,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 705,
+    "name": "Lauri Laasi",
+    "votes": 407,
+    "electronic": 40,
+    "abroad": 0,
+    "mandate": "Kompensatsioonimandaat",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 693,
+    "name": "Kadri Jäätma",
+    "votes": 407,
+    "electronic": 174,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 518,
+    "name": "Aleksander Laane",
+    "votes": 404,
+    "electronic": 145,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 312,
+    "name": "Vladas Radvilavičius",
+    "votes": 401,
+    "electronic": 204,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 717,
+    "name": "Kalle Klandorf",
+    "votes": 400,
+    "electronic": 73,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 374,
+    "name": "Jüri Kaver",
+    "votes": 395,
+    "electronic": 129,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 464,
+    "name": "Tiina Oraste",
+    "votes": 391,
+    "electronic": 133,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 805,
+    "name": "Vladimir Šokman",
+    "votes": 390,
+    "electronic": 30,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 937,
+    "name": "Silja Suija",
+    "votes": 390,
+    "electronic": 139,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 732,
+    "name": "Tiit Terik",
+    "votes": 389,
+    "electronic": 46,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 841,
+    "name": "Vadim Belobrovtsev",
+    "votes": 387,
+    "electronic": 124,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 376,
+    "name": "Liivi Maran",
+    "votes": 384,
+    "electronic": 112,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 405,
+    "name": "Priidu Pärna",
+    "votes": 381,
+    "electronic": 219,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 465,
+    "name": "Ando Kiviberg",
+    "votes": 378,
+    "electronic": 155,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 722,
+    "name": "Maria Jufereva",
+    "votes": 376,
+    "electronic": 58,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 545,
+    "name": "Mart Jüssi",
+    "votes": 376,
+    "electronic": 150,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 888,
+    "name": "Eerik Lumiste",
+    "votes": 371,
+    "electronic": 92,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 307,
+    "name": "Andrus Umboja",
+    "votes": 369,
+    "electronic": 167,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 895,
+    "name": "Jaak Allik",
+    "votes": 369,
+    "electronic": 93,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 767,
+    "name": "Urmas Tamm",
+    "votes": 365,
+    "electronic": 44,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 475,
+    "name": "Anti Orav",
+    "votes": 365,
+    "electronic": 116,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 947,
+    "name": "Valter Parve",
+    "votes": 363,
+    "electronic": 119,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 189,
+    "name": "Hardi Rehkalt",
+    "votes": 359,
+    "electronic": 122,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 854,
+    "name": "Olga Sõtnik",
+    "votes": 358,
+    "electronic": 158,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 303,
+    "name": "Tõnis Kõiv",
+    "votes": 355,
+    "electronic": 186,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 738,
+    "name": "Kerstin-Oudekki Loone",
+    "votes": 354,
+    "electronic": 64,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 361,
+    "name": "Mihkel Lees",
+    "votes": 354,
+    "electronic": 172,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 800,
+    "name": "Natalja Trošina",
+    "votes": 354,
+    "electronic": 16,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 857,
+    "name": "Anto Liivat",
+    "votes": 353,
+    "electronic": 186,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 448,
+    "name": "Mihkel Juhkami",
+    "votes": 352,
+    "electronic": 135,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 224,
+    "name": "Tiit Rosin",
+    "votes": 352,
+    "electronic": 79,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 744,
+    "name": "Oleg Tšubarov",
+    "votes": 351,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 135,
+    "name": "Andrus Soopalu",
+    "votes": 349,
+    "electronic": 78,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 523,
+    "name": "Tõnu Trubetsky",
+    "votes": 347,
+    "electronic": 120,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 710,
+    "name": "Enno Tamm",
+    "votes": 346,
+    "electronic": 55,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 442,
+    "name": "Georg Linkov",
+    "votes": 344,
+    "electronic": 143,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 883,
+    "name": "Reili Rand",
+    "votes": 342,
+    "electronic": 154,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 889,
+    "name": "Ene Augasmägi",
+    "votes": 342,
+    "electronic": 80,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 401,
+    "name": "Hendrik Agur",
+    "votes": 336,
+    "electronic": 188,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 468,
+    "name": "Lembit Kruuse",
+    "votes": 336,
+    "electronic": 103,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 496,
+    "name": "Kurmet Müürsepp",
+    "votes": 330,
+    "electronic": 96,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 336,
+    "name": "Ain Seppik",
+    "votes": 326,
+    "electronic": 93,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 670,
+    "name": "Märt Läänemets",
+    "votes": 326,
+    "electronic": 145,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 174,
+    "name": "Mart Järvik",
+    "votes": 323,
+    "electronic": 94,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 758,
+    "name": "Mart Mäeker",
+    "votes": 321,
+    "electronic": 48,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 542,
+    "name": "Rasmus Lahtvee",
+    "votes": 321,
+    "electronic": 146,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 664,
+    "name": "Madis Avi",
+    "votes": 321,
+    "electronic": 118,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 353,
+    "name": "Kalmer Lain",
+    "votes": 319,
+    "electronic": 102,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 885,
+    "name": "Raimu Aardam",
+    "votes": 315,
+    "electronic": 79,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 466,
+    "name": "Priit Värk",
+    "votes": 313,
+    "electronic": 102,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 915,
+    "name": "Triin Pärsim",
+    "votes": 311,
+    "electronic": 123,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 716,
+    "name": "Elena Glebova",
+    "votes": 310,
+    "electronic": 51,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 452,
+    "name": "Tauno Toompuu",
+    "votes": 310,
+    "electronic": 98,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 480,
+    "name": "Mihkel Kübar",
+    "votes": 302,
+    "electronic": 114,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 892,
+    "name": "Maimu Berg",
+    "votes": 299,
+    "electronic": 105,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 187,
+    "name": "Maido Pajo",
+    "votes": 298,
+    "electronic": 97,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 763,
+    "name": "Andres Jaadla",
+    "votes": 298,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 450,
+    "name": "Ain Suurkaev",
+    "votes": 297,
+    "electronic": 93,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 351,
+    "name": "Viktor Svjatõšev",
+    "votes": 297,
+    "electronic": 104,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 618,
+    "name": "Priit Kärsna",
+    "votes": 296,
+    "electronic": 124,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 329,
+    "name": "Toivo Asmer",
+    "votes": 296,
+    "electronic": 103,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 793,
+    "name": "Andres Raid",
+    "votes": 295,
+    "electronic": 54,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 864,
+    "name": "Karel Rüütli",
+    "votes": 293,
+    "electronic": 117,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 380,
+    "name": "Väino Hallikmägi",
+    "votes": 293,
+    "electronic": 121,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 395,
+    "name": "Tiit Meren",
+    "votes": 292,
+    "electronic": 158,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 495,
+    "name": "Arne Tilk",
+    "votes": 292,
+    "electronic": 91,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 837,
+    "name": "Katrin Saks",
+    "votes": 291,
+    "electronic": 138,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 295,
+    "name": "Eero Merilind",
+    "votes": 291,
+    "electronic": 139,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 898,
+    "name": "Kristina Kallas",
+    "votes": 291,
+    "electronic": 64,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 709,
+    "name": "Irina Antonjuk",
+    "votes": 290,
+    "electronic": 27,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 866,
+    "name": "Tiit Tammsaar",
+    "votes": 290,
+    "electronic": 94,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 440,
+    "name": "Merle Mäesalu",
+    "votes": 289,
+    "electronic": 104,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 694,
+    "name": "Elmo Joa",
+    "votes": 289,
+    "electronic": 107,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 391,
+    "name": "Diana Ingerainen",
+    "votes": 288,
+    "electronic": 146,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 870,
+    "name": "Astrid Ojasoon",
+    "votes": 287,
+    "electronic": 84,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 544,
+    "name": "Marko Kaasik",
+    "votes": 283,
+    "electronic": 106,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 855,
+    "name": "Lauri Laats",
+    "votes": 282,
+    "electronic": 76,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 138,
+    "name": "Nele Valgepea",
+    "votes": 281,
+    "electronic": 94,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 430,
+    "name": "Andres Laisk",
+    "votes": 281,
+    "electronic": 150,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 924,
+    "name": "Kadri Leetmaa",
+    "votes": 281,
+    "electronic": 144,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 250,
+    "name": "Aivar Mesikäpp",
+    "votes": 281,
+    "electronic": 63,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 242,
+    "name": "Merry Aart",
+    "votes": 279,
+    "electronic": 70,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 390,
+    "name": "Maksim Rogalski",
+    "votes": 278,
+    "electronic": 73,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 444,
+    "name": "Alar Schönberg",
+    "votes": 277,
+    "electronic": 85,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 696,
+    "name": "Heli Künnapas",
+    "votes": 277,
+    "electronic": 113,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 118,
+    "name": "Kristiina Ojuland",
+    "votes": 273,
+    "electronic": 69,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 790,
+    "name": "Aare Olgo",
+    "votes": 270,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 488,
+    "name": "Karl Kull",
+    "votes": 270,
+    "electronic": 124,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 443,
+    "name": "Raimond Lunev",
+    "votes": 269,
+    "electronic": 65,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 470,
+    "name": "Kalju Kertsmik",
+    "votes": 269,
+    "electronic": 75,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 476,
+    "name": "Toivo Peets",
+    "votes": 269,
+    "electronic": 68,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 791,
+    "name": "Max Kaur",
+    "votes": 269,
+    "electronic": 23,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 843,
+    "name": "Ott Pärna",
+    "votes": 268,
+    "electronic": 155,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 845,
+    "name": "Siim Tuisk",
+    "votes": 268,
+    "electronic": 165,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 415,
+    "name": "Evelin Samuel",
+    "votes": 268,
+    "electronic": 107,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 871,
+    "name": "Tõnis Blank",
+    "votes": 268,
+    "electronic": 103,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 631,
+    "name": "Jüri Lember",
+    "votes": 267,
+    "electronic": 127,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 154,
+    "name": "Raul Öpik",
+    "votes": 265,
+    "electronic": 98,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 643,
+    "name": "Peeter Kapten",
+    "votes": 265,
+    "electronic": 105,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 819,
+    "name": "Hillar Talvik",
+    "votes": 265,
+    "electronic": 21,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 403,
+    "name": "Kalev Vapper",
+    "votes": 264,
+    "electronic": 137,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 820,
+    "name": "Riho Alliksoo",
+    "votes": 264,
+    "electronic": 27,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 381,
+    "name": "Meeli Pärna",
+    "votes": 263,
+    "electronic": 104,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 765,
+    "name": "Jaanus Mutli",
+    "votes": 262,
+    "electronic": 31,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 354,
+    "name": "Kaisa Edenberg",
+    "votes": 262,
+    "electronic": 113,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 461,
+    "name": "Tunne-Väldo Kelam",
+    "votes": 260,
+    "electronic": 83,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 908,
+    "name": "Erich Palm",
+    "votes": 260,
+    "electronic": 104,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 504,
+    "name": "Rein Kilk",
+    "votes": 260,
+    "electronic": 91,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 285,
+    "name": "Kalev Kukk",
+    "votes": 256,
+    "electronic": 150,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 614,
+    "name": "Tiia Välk",
+    "votes": 255,
+    "electronic": 111,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 325,
+    "name": "Leo Aadel",
+    "votes": 255,
+    "electronic": 85,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 436,
+    "name": "Reet Roos",
+    "votes": 254,
+    "electronic": 138,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 900,
+    "name": "Ants Kutti",
+    "votes": 254,
+    "electronic": 79,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 844,
+    "name": "Toomas Alatalu",
+    "votes": 253,
+    "electronic": 86,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 363,
+    "name": "Triin Anette Kaasik",
+    "votes": 253,
+    "electronic": 111,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 901,
+    "name": "Toomas Nõmmiste",
+    "votes": 251,
+    "electronic": 92,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 909,
+    "name": "Kaupo Känd",
+    "votes": 251,
+    "electronic": 69,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 508,
+    "name": "Lauri Luur",
+    "votes": 251,
+    "electronic": 77,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 946,
+    "name": "Mercedes Merimaa",
+    "votes": 249,
+    "electronic": 92,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 822,
+    "name": "Svetlana Tšipurina",
+    "votes": 248,
+    "electronic": 23,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 394,
+    "name": "Avo Üprus",
+    "votes": 247,
+    "electronic": 80,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 512,
+    "name": "Olev-Andres Tinn",
+    "votes": 247,
+    "electronic": 113,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 445,
+    "name": "Toomas Takkis",
+    "votes": 247,
+    "electronic": 107,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 856,
+    "name": "Kadi Pärnits",
+    "votes": 245,
+    "electronic": 109,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 755,
+    "name": "Janne Nurmik",
+    "votes": 245,
+    "electronic": 42,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 935,
+    "name": "Raul Kudre",
+    "votes": 245,
+    "electronic": 59,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 335,
+    "name": "Enno Vinni",
+    "votes": 243,
+    "electronic": 84,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 364,
+    "name": "Helmer Jõgi",
+    "votes": 243,
+    "electronic": 114,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 918,
+    "name": "Meelis Karro",
+    "votes": 242,
+    "electronic": 75,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 642,
+    "name": "Heiki Hallik",
+    "votes": 241,
+    "electronic": 80,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 310,
+    "name": "Ain Täpsi",
+    "votes": 237,
+    "electronic": 96,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 597,
+    "name": "Jaan Riis",
+    "votes": 236,
+    "electronic": 111,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 506,
+    "name": "Meelis Kukk",
+    "votes": 236,
+    "electronic": 78,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 842,
+    "name": "Andra Veidemann",
+    "votes": 235,
+    "electronic": 105,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 393,
+    "name": "Tiia Sihver",
+    "votes": 233,
+    "electronic": 111,
+    "abroad": 5,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 561,
+    "name": "Georgi Bõstrov",
+    "votes": 233,
+    "electronic": 23,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 881,
+    "name": "Veeve Kaasik",
+    "votes": 232,
+    "electronic": 54,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 814,
+    "name": "Toivo Tootsen",
+    "votes": 232,
+    "electronic": 29,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 943,
+    "name": "Tatjana Jaanson",
+    "votes": 230,
+    "electronic": 64,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 397,
+    "name": "Tiit Riisalo",
+    "votes": 229,
+    "electronic": 114,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 233,
+    "name": "Merike Lillenberg",
+    "votes": 229,
+    "electronic": 49,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 248,
+    "name": "Riina Sabalisk",
+    "votes": 229,
+    "electronic": 53,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 725,
+    "name": "Nelli Privalova",
+    "votes": 228,
+    "electronic": 36,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 451,
+    "name": "Hannes Mets",
+    "votes": 228,
+    "electronic": 69,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 579,
+    "name": "Ants Miller",
+    "votes": 227,
+    "electronic": 119,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 157,
+    "name": "Rein Tölp",
+    "votes": 225,
+    "electronic": 57,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 811,
+    "name": "Eve Salundi",
+    "votes": 224,
+    "electronic": 22,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 326,
+    "name": "Kaido Veski",
+    "votes": 223,
+    "electronic": 64,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 507,
+    "name": "Krista Nõmm",
+    "votes": 221,
+    "electronic": 63,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 951,
+    "name": "Kadri-Aija Viik",
+    "votes": 221,
+    "electronic": 65,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 720,
+    "name": "Aini Härm",
+    "votes": 218,
+    "electronic": 27,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 938,
+    "name": "Rein Järvelill",
+    "votes": 218,
+    "electronic": 62,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 734,
+    "name": "Irina Embrich",
+    "votes": 217,
+    "electronic": 31,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 719,
+    "name": "Tarmo Kriis",
+    "votes": 215,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 449,
+    "name": "Helle Noorväli",
+    "votes": 215,
+    "electronic": 80,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 891,
+    "name": "Garri Raagmaa",
+    "votes": 214,
+    "electronic": 94,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 232,
+    "name": "Kalev Essenson",
+    "votes": 214,
+    "electronic": 51,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 581,
+    "name": "Tõnu Teeveer",
+    "votes": 210,
+    "electronic": 116,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 320,
+    "name": "Innar Mäesalu",
+    "votes": 209,
+    "electronic": 63,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 497,
+    "name": "Marek Mekk",
+    "votes": 208,
+    "electronic": 77,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 897,
+    "name": "Inna Nazarova",
+    "votes": 207,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 271,
+    "name": "Andres Aro",
+    "votes": 206,
+    "electronic": 95,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 152,
+    "name": "Toomas Rull",
+    "votes": 205,
+    "electronic": 58,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 111,
+    "name": "Raimo Kägu",
+    "votes": 205,
+    "electronic": 68,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 498,
+    "name": "Kalle Vister",
+    "votes": 205,
+    "electronic": 45,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 296,
+    "name": "Õnne Pillak",
+    "votes": 203,
+    "electronic": 113,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 940,
+    "name": "Sixten Sild",
+    "votes": 203,
+    "electronic": 83,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 635,
+    "name": "Rinno Lige",
+    "votes": 202,
+    "electronic": 90,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 760,
+    "name": "Jüri Kuuskemaa",
+    "votes": 202,
+    "electronic": 41,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 382,
+    "name": "Riido Villup",
+    "votes": 202,
+    "electronic": 69,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 550,
+    "name": "Mart Saarso",
+    "votes": 202,
+    "electronic": 83,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 809,
+    "name": "Janika Usin",
+    "votes": 200,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 417,
+    "name": "Andres Öpik",
+    "votes": 198,
+    "electronic": 108,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 848,
+    "name": "Tiiu Kuurme",
+    "votes": 197,
+    "electronic": 84,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 646,
+    "name": "Tamara Luigas",
+    "votes": 197,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 213,
+    "name": "Rein Suurkask",
+    "votes": 197,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 812,
+    "name": "Andre Laine",
+    "votes": 197,
+    "electronic": 49,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 547,
+    "name": "Ago Samoson",
+    "votes": 196,
+    "electronic": 71,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 484,
+    "name": "Anneli Kannus",
+    "votes": 195,
+    "electronic": 75,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 407,
+    "name": "Madis Päts",
+    "votes": 194,
+    "electronic": 91,
+    "abroad": 3,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 580,
+    "name": "Lii Ramjalg",
+    "votes": 192,
+    "electronic": 99,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 435,
+    "name": "Andres Kaarmann",
+    "votes": 192,
+    "electronic": 83,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 757,
+    "name": "Ants Vahtras",
+    "votes": 192,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 930,
+    "name": "Kajar Lember",
+    "votes": 191,
+    "electronic": 61,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 939,
+    "name": "Kalev Härk",
+    "votes": 191,
+    "electronic": 68,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 948,
+    "name": "Priit Ruut",
+    "votes": 191,
+    "electronic": 61,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 191,
+    "name": "Elvo Leppmaa",
+    "votes": 188,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 419,
+    "name": "Jaak Uudmäe",
+    "votes": 187,
+    "electronic": 81,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 375,
+    "name": "Anti Haugas",
+    "votes": 186,
+    "electronic": 94,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 685,
+    "name": "Kaie Herkel",
+    "votes": 185,
+    "electronic": 67,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 270,
+    "name": "Liina Hermaküla",
+    "votes": 184,
+    "electronic": 85,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 821,
+    "name": "Kalle Song",
+    "votes": 184,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 281,
+    "name": "Eve Pärnaste",
+    "votes": 183,
+    "electronic": 96,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 432,
+    "name": "Tiit Leier",
+    "votes": 183,
+    "electronic": 54,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 949,
+    "name": "Kalev Kaljuste",
+    "votes": 182,
+    "electronic": 50,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 177,
+    "name": "Rene Kokk",
+    "votes": 180,
+    "electronic": 47,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 456,
+    "name": "Janek Raik",
+    "votes": 180,
+    "electronic": 38,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 479,
+    "name": "Aare Anderson",
+    "votes": 180,
+    "electronic": 64,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 583,
+    "name": "Georg Kirsberg",
+    "votes": 179,
+    "electronic": 103,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 226,
+    "name": "Olev Teder",
+    "votes": 179,
+    "electronic": 50,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 478,
+    "name": "Rain Sangernebo",
+    "votes": 179,
+    "electronic": 56,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 858,
+    "name": "Külli Urb",
+    "votes": 176,
+    "electronic": 83,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 974,
+    "name": "Heli Koit",
+    "votes": 176,
+    "electronic": 58,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 916,
+    "name": "Kairi Kell",
+    "votes": 176,
+    "electronic": 80,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 178,
+    "name": "Kai Rimmel",
+    "votes": 175,
+    "electronic": 62,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 282,
+    "name": "Georg Aher",
+    "votes": 174,
+    "electronic": 104,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 723,
+    "name": "Juri Danilov",
+    "votes": 173,
+    "electronic": 16,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 896,
+    "name": "Eduard Odinets",
+    "votes": 173,
+    "electronic": 49,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 355,
+    "name": "Raivo Vadi",
+    "votes": 172,
+    "electronic": 59,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 247,
+    "name": "Martti Kirotaja",
+    "votes": 171,
+    "electronic": 71,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 654,
+    "name": "Ain Ostra",
+    "votes": 170,
+    "electronic": 62,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 721,
+    "name": "Tõnis Mölder",
+    "votes": 169,
+    "electronic": 33,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 742,
+    "name": "Jüri Võigemast",
+    "votes": 169,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 132,
+    "name": "Piret Haljend",
+    "votes": 169,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 302,
+    "name": "Kalev Lillo",
+    "votes": 168,
+    "electronic": 81,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 840,
+    "name": "Jelena Poverina-Tšernõh",
+    "votes": 167,
+    "electronic": 65,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 611,
+    "name": "Ülo Mattheus",
+    "votes": 167,
+    "electronic": 90,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 741,
+    "name": "René Toomse",
+    "votes": 167,
+    "electronic": 33,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 386,
+    "name": "Kristjan Heamäe",
+    "votes": 167,
+    "electronic": 63,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 831,
+    "name": "Sirje Keevallik",
+    "votes": 166,
+    "electronic": 100,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 802,
+    "name": "Diana Klas",
+    "votes": 163,
+    "electronic": 27,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 792,
+    "name": "Andres Vään",
+    "votes": 162,
+    "electronic": 31,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 383,
+    "name": "Maarja Kõrv",
+    "votes": 162,
+    "electronic": 71,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 227,
+    "name": "Kai Tennosaar",
+    "votes": 161,
+    "electronic": 50,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 674,
+    "name": "Piret Tarto",
+    "votes": 161,
+    "electronic": 47,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 688,
+    "name": "Tanel Valk",
+    "votes": 161,
+    "electronic": 43,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 409,
+    "name": "Illimar Leppik Von Wirén",
+    "votes": 160,
+    "electronic": 78,
+    "abroad": 15,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 293,
+    "name": "Joonas Vänto",
+    "votes": 160,
+    "electronic": 83,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 876,
+    "name": "Evely Purre",
+    "votes": 160,
+    "electronic": 47,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 534,
+    "name": "Kristen Kannik",
+    "votes": 160,
+    "electronic": 68,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 392,
+    "name": "Imre Rammul",
+    "votes": 158,
+    "electronic": 75,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 630,
+    "name": "Mikko Nõukas",
+    "votes": 157,
+    "electronic": 48,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 680,
+    "name": "Kalle Pilt",
+    "votes": 157,
+    "electronic": 84,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 718,
+    "name": "Taavi Aas",
+    "votes": 156,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 151,
+    "name": "Gunnar Stahl",
+    "votes": 155,
+    "electronic": 44,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 531,
+    "name": "Joonas Laks",
+    "votes": 155,
+    "electronic": 54,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 813,
+    "name": "Liis Tappo-Treial",
+    "votes": 155,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 775,
+    "name": "Riho Kutsar",
+    "votes": 152,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 127,
+    "name": "Tõnu Kalja",
+    "votes": 151,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 269,
+    "name": "Karin Pärtel",
+    "votes": 150,
+    "electronic": 82,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 927,
+    "name": "Henri Kaselo",
+    "votes": 149,
+    "electronic": 38,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 675,
+    "name": "Hannes Klaas",
+    "votes": 148,
+    "electronic": 76,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 311,
+    "name": "Ena Soodla",
+    "votes": 147,
+    "electronic": 76,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 459,
+    "name": "Artur Põld",
+    "votes": 147,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 873,
+    "name": "Madis Roodla",
+    "votes": 146,
+    "electronic": 46,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 268,
+    "name": "Tatjana Muravjova",
+    "votes": 144,
+    "electronic": 68,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 420,
+    "name": "Tiit Papp",
+    "votes": 144,
+    "electronic": 45,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 193,
+    "name": "Meelis Malk",
+    "votes": 144,
+    "electronic": 39,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 950,
+    "name": "Andres Hirvela",
+    "votes": 144,
+    "electronic": 48,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 605,
+    "name": "Tõnu Ploompuu",
+    "votes": 143,
+    "electronic": 66,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 655,
+    "name": "Ilme Last",
+    "votes": 143,
+    "electronic": 55,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 859,
+    "name": "Jaak Kangilaski",
+    "votes": 142,
+    "electronic": 58,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 204,
+    "name": "Mari-Liis Lillemets",
+    "votes": 141,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 781,
+    "name": "Raivo Matsina",
+    "votes": 140,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 867,
+    "name": "Mailis Alt",
+    "votes": 137,
+    "electronic": 53,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 739,
+    "name": "Värner Lootsmann",
+    "votes": 136,
+    "electronic": 22,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 433,
+    "name": "Jan Trei",
+    "votes": 135,
+    "electronic": 56,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 620,
+    "name": "Veiko Herodes",
+    "votes": 135,
+    "electronic": 69,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 408,
+    "name": "Linda Eichler",
+    "votes": 133,
+    "electronic": 84,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 955,
+    "name": "Vello Leito",
+    "votes": 133,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 236,
+    "name": "Toivo Suuroja",
+    "votes": 133,
+    "electronic": 46,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 149,
+    "name": "Kairet Grassmann",
+    "votes": 132,
+    "electronic": 55,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 418,
+    "name": "Andres Ergma",
+    "votes": 132,
+    "electronic": 37,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 884,
+    "name": "Arno Peksar",
+    "votes": 132,
+    "electronic": 40,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 253,
+    "name": "Heldur Paulson",
+    "votes": 132,
+    "electronic": 49,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 286,
+    "name": "Taavi Toppi",
+    "votes": 131,
+    "electronic": 68,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 593,
+    "name": "Margus Maidla",
+    "votes": 131,
+    "electronic": 74,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 292,
+    "name": "Kaido Kaaberma",
+    "votes": 131,
+    "electronic": 58,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 147,
+    "name": "Maret Jõgi",
+    "votes": 130,
+    "electronic": 50,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 785,
+    "name": "Mait Maltis",
+    "votes": 129,
+    "electronic": 22,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 691,
+    "name": "Urmas Ott",
+    "votes": 129,
+    "electronic": 37,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 660,
+    "name": "Mats Õun",
+    "votes": 128,
+    "electronic": 59,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 665,
+    "name": "Katrin Hauk",
+    "votes": 128,
+    "electronic": 46,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 591,
+    "name": "Maris Meriste",
+    "votes": 127,
+    "electronic": 54,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 656,
+    "name": "Väino Rajangu",
+    "votes": 127,
+    "electronic": 56,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 960,
+    "name": "Toivo Õunapuu",
+    "votes": 127,
+    "electronic": 23,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 499,
+    "name": "Jaak Pächter",
+    "votes": 127,
+    "electronic": 37,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 833,
+    "name": "Sandra Kamilova",
+    "votes": 126,
+    "electronic": 67,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 604,
+    "name": "Anne Hansberg",
+    "votes": 126,
+    "electronic": 59,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 150,
+    "name": "Orhan Oktain",
+    "votes": 125,
+    "electronic": 45,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 536,
+    "name": "Agu Kivimägi",
+    "votes": 124,
+    "electronic": 55,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 214,
+    "name": "Marve Piip",
+    "votes": 124,
+    "electronic": 39,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 676,
+    "name": "Heiki Krips",
+    "votes": 124,
+    "electronic": 45,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 684,
+    "name": "Ivo Pill",
+    "votes": 123,
+    "electronic": 46,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 180,
+    "name": "Lauri Lasimer",
+    "votes": 122,
+    "electronic": 52,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 697,
+    "name": "Johannes Kass",
+    "votes": 122,
+    "electronic": 25,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 225,
+    "name": "Mati Köhler",
+    "votes": 121,
+    "electronic": 24,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 668,
+    "name": "Raik-Hiio Mikelsaar",
+    "votes": 121,
+    "electronic": 65,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 457,
+    "name": "Risto Lindeberg",
+    "votes": 119,
+    "electronic": 27,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 663,
+    "name": "Tauno Kure",
+    "votes": 119,
+    "electronic": 56,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 846,
+    "name": "Reet Laja",
+    "votes": 118,
+    "electronic": 57,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 874,
+    "name": "Anne Leht",
+    "votes": 118,
+    "electronic": 49,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 455,
+    "name": "Ants Pauls",
+    "votes": 118,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 794,
+    "name": "Kalle Mihkels",
+    "votes": 117,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 141,
+    "name": "Riho Rausma",
+    "votes": 116,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 175,
+    "name": "Paul Puustusmaa",
+    "votes": 116,
+    "electronic": 57,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 745,
+    "name": "Ago Kokser",
+    "votes": 116,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 239,
+    "name": "Indrek Särg",
+    "votes": 116,
+    "electronic": 23,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 249,
+    "name": "Veevi Hõrak",
+    "votes": 115,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 815,
+    "name": "Heidy Tamme",
+    "votes": 115,
+    "electronic": 13,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 825,
+    "name": "Anne Betker",
+    "votes": 115,
+    "electronic": 7,
+    "abroad": 4,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 967,
+    "name": "Marek Ranne",
+    "votes": 114,
+    "electronic": 48,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 624,
+    "name": "Urmas Kristal",
+    "votes": 113,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 956,
+    "name": "Olev Ait",
+    "votes": 113,
+    "electronic": 28,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 486,
+    "name": "Jüri Kõre",
+    "votes": 113,
+    "electronic": 49,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 619,
+    "name": "Liisa Ojangu",
+    "votes": 112,
+    "electronic": 49,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 869,
+    "name": "Stanislav Tšerepanov",
+    "votes": 111,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 969,
+    "name": "Urmo Karusoo",
+    "votes": 111,
+    "electronic": 23,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 962,
+    "name": "Argo Mõttus",
+    "votes": 111,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 695,
+    "name": "Ants Erm",
+    "votes": 111,
+    "electronic": 44,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 617,
+    "name": "Katrin Mesilane",
+    "votes": 110,
+    "electronic": 52,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 973,
+    "name": "Ege Hirv",
+    "votes": 110,
+    "electronic": 26,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 124,
+    "name": "Pavo Raudsepp",
+    "votes": 109,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 416,
+    "name": "Urmas Mardi",
+    "votes": 108,
+    "electronic": 49,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 872,
+    "name": "Eve Kislov",
+    "votes": 108,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 644,
+    "name": "Inna Rose",
+    "votes": 108,
+    "electronic": 38,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 952,
+    "name": "Raivo Orgusaar",
+    "votes": 107,
+    "electronic": 23,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 677,
+    "name": "Urmet Külaots",
+    "votes": 107,
+    "electronic": 58,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 251,
+    "name": "Vaino Rauba",
+    "votes": 107,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 782,
+    "name": "Hannes Männik",
+    "votes": 105,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 520,
+    "name": "Küllike Reimaa",
+    "votes": 104,
+    "electronic": 42,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 601,
+    "name": "Heldur-Valdek Seeder",
+    "votes": 104,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 639,
+    "name": "Marika Tali",
+    "votes": 104,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 458,
+    "name": "Aivo Tamm",
+    "votes": 104,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 658,
+    "name": "Olev Rahnu",
+    "votes": 104,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 616,
+    "name": "Aivar Koitla",
+    "votes": 103,
+    "electronic": 43,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 540,
+    "name": "Erno Ilsen",
+    "votes": 103,
+    "electronic": 35,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 199,
+    "name": "Uno Trumm",
+    "votes": 102,
+    "electronic": 32,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 234,
+    "name": "Ruuben Kaalep",
+    "votes": 102,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 823,
+    "name": "Avo Keel",
+    "votes": 102,
+    "electronic": 15,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 143,
+    "name": "Annika Soots",
+    "votes": 101,
+    "electronic": 21,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 434,
+    "name": "Priit Põldmäe",
+    "votes": 101,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 220,
+    "name": "Helgi Liik",
+    "votes": 101,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 185,
+    "name": "Anett Leosk",
+    "votes": 100,
+    "electronic": 46,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 752,
+    "name": "Vello Jõgisoo",
+    "votes": 100,
+    "electronic": 26,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 824,
+    "name": "Ants Lopsik",
+    "votes": 100,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 216,
+    "name": "Tarmo Hints",
+    "votes": 99,
+    "electronic": 26,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 875,
+    "name": "Mati Õunloo",
+    "votes": 98,
+    "electronic": 29,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 333,
+    "name": "Aime Keis",
+    "votes": 98,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 606,
+    "name": "Tarmo Kaldma",
+    "votes": 97,
+    "electronic": 60,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 609,
+    "name": "Eda Heinla",
+    "votes": 97,
+    "electronic": 54,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 860,
+    "name": "Gerd Tarand",
+    "votes": 97,
+    "electronic": 29,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 179,
+    "name": "Heino Lõiveke",
+    "votes": 97,
+    "electronic": 17,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 882,
+    "name": "Jaanus Sahk",
+    "votes": 97,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 121,
+    "name": "Evelyn Danilov",
+    "votes": 97,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 202,
+    "name": "Kalmer Kalaus",
+    "votes": 96,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 929,
+    "name": "Jarno Laur",
+    "votes": 96,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 683,
+    "name": "Kalle Kaljuste",
+    "votes": 96,
+    "electronic": 33,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 384,
+    "name": "Kalev Päit",
+    "votes": 96,
+    "electronic": 33,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 284,
+    "name": "Toomas Viks",
+    "votes": 95,
+    "electronic": 58,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 600,
+    "name": "Holger Peel",
+    "votes": 95,
+    "electronic": 44,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 849,
+    "name": "Reigo Kimmel",
+    "votes": 95,
+    "electronic": 60,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 749,
+    "name": "Indrek Uuemaa",
+    "votes": 95,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 640,
+    "name": "Kristo Krumm",
+    "votes": 95,
+    "electronic": 41,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 207,
+    "name": "Mart Kalaus",
+    "votes": 95,
+    "electronic": 15,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 530,
+    "name": "Ivar Soone",
+    "votes": 94,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 217,
+    "name": "Raivo Asuküla",
+    "votes": 94,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 686,
+    "name": "Urmas Heinaste",
+    "votes": 93,
+    "electronic": 46,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 431,
+    "name": "Kadri Tillemann",
+    "votes": 92,
+    "electronic": 53,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 385,
+    "name": "Carmen Illak",
+    "votes": 92,
+    "electronic": 50,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 237,
+    "name": "Aili Tuhkanen",
+    "votes": 91,
+    "electronic": 23,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 272,
+    "name": "Gerol Silkin",
+    "votes": 89,
+    "electronic": 45,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 625,
+    "name": "Egge Kulbok-Lattik",
+    "votes": 89,
+    "electronic": 55,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 747,
+    "name": "Peeter Rebane",
+    "votes": 88,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 245,
+    "name": "Artur Karask",
+    "votes": 88,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 963,
+    "name": "Peeter Paemurru",
+    "votes": 88,
+    "electronic": 15,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 396,
+    "name": "Henrik Aavik",
+    "votes": 87,
+    "electronic": 47,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 586,
+    "name": "Kuido Merits",
+    "votes": 87,
+    "electronic": 46,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 832,
+    "name": "Maris Sild",
+    "votes": 87,
+    "electronic": 45,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 153,
+    "name": "Veiko Hartwig Valgepea",
+    "votes": 87,
+    "electronic": 43,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 410,
+    "name": "Sülvi Sarapuu",
+    "votes": 87,
+    "electronic": 38,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 192,
+    "name": "Rein Merila",
+    "votes": 87,
+    "electronic": 27,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 421,
+    "name": "Madis Kübar",
+    "votes": 86,
+    "electronic": 41,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 514,
+    "name": "Eero Uustalu",
+    "votes": 85,
+    "electronic": 37,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 562,
+    "name": "Jevgeni Golovatš",
+    "votes": 85,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 255,
+    "name": "Käde Kalamees",
+    "votes": 84,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 139,
+    "name": "Taivo Põrk",
+    "votes": 83,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 198,
+    "name": "Aigar Põder",
+    "votes": 83,
+    "electronic": 31,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 957,
+    "name": "Toomas Tamm",
+    "votes": 83,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 971,
+    "name": "Maarika Pähklemäe",
+    "votes": 82,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 469,
+    "name": "Marko Tiitus",
+    "votes": 82,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 751,
+    "name": "Oliver Liidemann",
+    "votes": 81,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 804,
+    "name": "Kätlin Takis",
+    "votes": 81,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 195,
+    "name": "Piret Kollo",
+    "votes": 80,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 126,
+    "name": "Ott Kukk",
+    "votes": 80,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 541,
+    "name": "Ain Kuningas",
+    "votes": 80,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 669,
+    "name": "Agu Rillo",
+    "votes": 80,
+    "electronic": 29,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 926,
+    "name": "Tõnu Ints",
+    "votes": 80,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 965,
+    "name": "Jaak Vackermann",
+    "votes": 79,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 784,
+    "name": "Ülle Leesmaa",
+    "votes": 79,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 835,
+    "name": "Tiia Tiik",
+    "votes": 78,
+    "electronic": 37,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 219,
+    "name": "Gustav Siniväli",
+    "votes": 77,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 238,
+    "name": "Tiina Pärnpuu",
+    "votes": 77,
+    "electronic": 24,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 701,
+    "name": "Jaanus Ojangu",
+    "votes": 77,
+    "electronic": 27,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 168,
+    "name": "Piia Paemurru",
+    "votes": 76,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 826,
+    "name": "Argo Mengel",
+    "votes": 76,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 537,
+    "name": "Reigo Lehtla",
+    "votes": 75,
+    "electronic": 30,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 679,
+    "name": "Laili Jõgiaas",
+    "votes": 75,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 500,
+    "name": "Sirle Rosenfeldt",
+    "votes": 74,
+    "electronic": 33,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 645,
+    "name": "Jüri Soone",
+    "votes": 73,
+    "electronic": 37,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 134,
+    "name": "Juhan Liiv",
+    "votes": 73,
+    "electronic": 15,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 599,
+    "name": "Kulno Kesküla",
+    "votes": 72,
+    "electronic": 43,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 632,
+    "name": "Arles Taal",
+    "votes": 72,
+    "electronic": 35,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 129,
+    "name": "Silver Kuusik",
+    "votes": 72,
+    "electronic": 19,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 690,
+    "name": "Valev Elerand",
+    "votes": 72,
+    "electronic": 26,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 194,
+    "name": "Aivar Rohilaid",
+    "votes": 71,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 510,
+    "name": "Mari Suurväli",
+    "votes": 71,
+    "electronic": 21,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 582,
+    "name": "Ivika Puust",
+    "votes": 70,
+    "electronic": 30,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 294,
+    "name": "Joel Jesse",
+    "votes": 70,
+    "electronic": 32,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 621,
+    "name": "Ülle Lennuk",
+    "votes": 70,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 254,
+    "name": "Helle Kullerkupp",
+    "votes": 70,
+    "electronic": 15,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 517,
+    "name": "Mihkel Veskimägi",
+    "votes": 69,
+    "electronic": 24,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 594,
+    "name": "Jaanus Luka",
+    "votes": 69,
+    "electronic": 41,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 607,
+    "name": "Taavi Simson",
+    "votes": 69,
+    "electronic": 28,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 158,
+    "name": "Alar Ehala",
+    "votes": 68,
+    "electronic": 27,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 610,
+    "name": "Jaan Mihkel Uustalu",
+    "votes": 68,
+    "electronic": 39,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 759,
+    "name": "Harald Tõru",
+    "votes": 68,
+    "electronic": 8,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 230,
+    "name": "Margit Avi",
+    "votes": 68,
+    "electronic": 15,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 847,
+    "name": "Jevgenia Kirilova",
+    "votes": 67,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 954,
+    "name": "Merle Otsmaa",
+    "votes": 67,
+    "electronic": 12,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 748,
+    "name": "Meelis Pai",
+    "votes": 67,
+    "electronic": 11,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 959,
+    "name": "Jaanus Kruusmaa",
+    "votes": 67,
+    "electronic": 11,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 223,
+    "name": "Kristian Suve",
+    "votes": 67,
+    "electronic": 19,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 546,
+    "name": "Priit Truusalu",
+    "votes": 66,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 678,
+    "name": "Arvo Päike",
+    "votes": 66,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 524,
+    "name": "Maigi Käige",
+    "votes": 65,
+    "electronic": 36,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 756,
+    "name": "Andres Kampmann",
+    "votes": 65,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 890,
+    "name": "Paul Lettens",
+    "votes": 65,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 803,
+    "name": "Rain Suursaar",
+    "votes": 65,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 529,
+    "name": "Andres Meesak",
+    "votes": 63,
+    "electronic": 35,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 634,
+    "name": "Jaan Laats",
+    "votes": 63,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 200,
+    "name": "Arno Pikhof",
+    "votes": 63,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 487,
+    "name": "Piret Orav",
+    "votes": 63,
+    "electronic": 24,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 516,
+    "name": "Piret Käige",
+    "votes": 62,
+    "electronic": 24,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 406,
+    "name": "Reet Trei",
+    "votes": 62,
+    "electronic": 28,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 657,
+    "name": "Margus Sardis",
+    "votes": 62,
+    "electronic": 32,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 928,
+    "name": "Tiina Merkuljeva",
+    "votes": 61,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 626,
+    "name": "Mati Sarevet",
+    "votes": 60,
+    "electronic": 38,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 587,
+    "name": "Jaanus Paasoja",
+    "votes": 59,
+    "electronic": 29,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 667,
+    "name": "Heino Kaljurand",
+    "votes": 59,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 689,
+    "name": "Silver Saarva",
+    "votes": 59,
+    "electronic": 34,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 972,
+    "name": "Tarmo Porroson",
+    "votes": 59,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 700,
+    "name": "Rein Prins",
+    "votes": 59,
+    "electronic": 13,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 953,
+    "name": "Lauri Liikane",
+    "votes": 58,
+    "electronic": 8,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 633,
+    "name": "Olev Vaher",
+    "votes": 58,
+    "electronic": 33,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 568,
+    "name": "Viktor Malõgin",
+    "votes": 58,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 647,
+    "name": "Olav Kivirand",
+    "votes": 58,
+    "electronic": 22,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 572,
+    "name": "Aleksandr Širokov",
+    "votes": 58,
+    "electronic": 4,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 259,
+    "name": "Iivi Kallaste",
+    "votes": 58,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 146,
+    "name": "Rein Pika",
+    "votes": 57,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 622,
+    "name": "Mart Mutso",
+    "votes": 57,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 627,
+    "name": "Vahur Herm",
+    "votes": 57,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 538,
+    "name": "Aleksander Pototski",
+    "votes": 57,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 666,
+    "name": "Valeria Kaljuorg",
+    "votes": 57,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 834,
+    "name": "Raiko Puustusmaa",
+    "votes": 56,
+    "electronic": 24,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 246,
+    "name": "Endel-Haljand Susi",
+    "votes": 56,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 101,
+    "name": "Veronika Isberg",
+    "votes": 55,
+    "electronic": 21,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 651,
+    "name": "Avo Blankin",
+    "votes": 55,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 750,
+    "name": "Väino Sassi",
+    "votes": 54,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 958,
+    "name": "Hele Kängsepp",
+    "votes": 54,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 160,
+    "name": "Triin Van Doorslaer",
+    "votes": 53,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 533,
+    "name": "Kalju Valdmann",
+    "votes": 53,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 205,
+    "name": "Kai Ird",
+    "votes": 52,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 548,
+    "name": "Zoja Mellov",
+    "votes": 52,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 164,
+    "name": "Kaarel Jaak Roosaare",
+    "votes": 51,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 584,
+    "name": "Peeter Kõluvere",
+    "votes": 50,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 181,
+    "name": "Veiko Värk",
+    "votes": 50,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 116,
+    "name": "Kaie Jaaniste",
+    "votes": 50,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 161,
+    "name": "Veiko Krass",
+    "votes": 49,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 724,
+    "name": "Helen Lausma-Saar",
+    "votes": 49,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 783,
+    "name": "Are Riistan",
+    "votes": 49,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Keskerakond"
+  },
+  {
+    "number": 551,
+    "name": "Ove Varik",
+    "votes": 49,
+    "electronic": 20,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 836,
+    "name": "Heinart Puhkim",
+    "votes": 48,
+    "electronic": 13,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 598,
+    "name": "Aldo Vaino",
+    "votes": 48,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 543,
+    "name": "Arvo Kuiv",
+    "votes": 48,
+    "electronic": 13,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 145,
+    "name": "Urmas Siemer",
+    "votes": 47,
+    "electronic": 11,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 698,
+    "name": "Enn Rähn",
+    "votes": 47,
+    "electronic": 12,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 970,
+    "name": "Svetlana Ivnitskaja",
+    "votes": 46,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 197,
+    "name": "Are Saarne",
+    "votes": 46,
+    "electronic": 13,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 228,
+    "name": "Timo Avi",
+    "votes": 46,
+    "electronic": 12,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 699,
+    "name": "Hillar Vaik",
+    "votes": 46,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 155,
+    "name": "Riho Nüüd",
+    "votes": 44,
+    "electronic": 12,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 532,
+    "name": "Ain Kabal",
+    "votes": 44,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 107,
+    "name": "Kerli Green",
+    "votes": 43,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 519,
+    "name": "Darja Vorontsova",
+    "votes": 43,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 525,
+    "name": "Anne Artus",
+    "votes": 43,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 122,
+    "name": "Arnold Persidski",
+    "votes": 43,
+    "electronic": 11,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 539,
+    "name": "Allan Selin",
+    "votes": 43,
+    "electronic": 13,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 549,
+    "name": "Arvi Matvei",
+    "votes": 43,
+    "electronic": 16,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 966,
+    "name": "Greete Reinson",
+    "votes": 42,
+    "electronic": 18,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 968,
+    "name": "Henn Leetna",
+    "votes": 42,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 108,
+    "name": "Jane Snaith",
+    "votes": 41,
+    "electronic": 17,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 260,
+    "name": "Tiina Toomjõe",
+    "votes": 41,
+    "electronic": 11,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 283,
+    "name": "Olga Ašihmina",
+    "votes": 40,
+    "electronic": 25,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Reformierakond"
+  },
+  {
+    "number": 112,
+    "name": "Andrei Šaršov",
+    "votes": 40,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 659,
+    "name": "Evi Kirschfeldt",
+    "votes": 40,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 575,
+    "name": "Niina Netšajeva",
+    "votes": 40,
+    "electronic": 3,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 515,
+    "name": "Raivo Juurak",
+    "votes": 39,
+    "electronic": 17,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 182,
+    "name": "Olavi Tutt",
+    "votes": 39,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 186,
+    "name": "Taavi Tapu",
+    "votes": 39,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 120,
+    "name": "Õnnela Raudsepp",
+    "votes": 39,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 961,
+    "name": "Veiko Rämmel",
+    "votes": 39,
+    "electronic": 6,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Iseseisvuspartei"
+  },
+  {
+    "number": 505,
+    "name": "Tiit Matsulevitš",
+    "votes": 39,
+    "electronic": 25,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 104,
+    "name": "Aleksandr Apolinsky",
+    "votes": 38,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 218,
+    "name": "Timo Kalaus",
+    "votes": 38,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 133,
+    "name": "Jaak Metsalu",
+    "votes": 38,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 513,
+    "name": "Andrei Gudim",
+    "votes": 37,
+    "electronic": 11,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 522,
+    "name": "Evald Langebraun",
+    "votes": 37,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 623,
+    "name": "Loit Jõekalda",
+    "votes": 37,
+    "electronic": 19,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 899,
+    "name": "Genadi Afanassjev",
+    "votes": 37,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Sotsiaaldemokraatlik Erakond"
+  },
+  {
+    "number": 608,
+    "name": "Margus Jaago",
+    "votes": 36,
+    "electronic": 23,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 159,
+    "name": "Juhan Kobin",
+    "votes": 35,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 527,
+    "name": "Allan Talu",
+    "votes": 34,
+    "electronic": 21,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 123,
+    "name": "Ljubov Dorošenko",
+    "votes": 34,
+    "electronic": 2,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 229,
+    "name": "Maret Rätsep",
+    "votes": 34,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 638,
+    "name": "Rein Kotšin",
+    "votes": 33,
+    "electronic": 20,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 163,
+    "name": "Andrus Leberecht",
+    "votes": 32,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 170,
+    "name": "Ivo Ratas",
+    "votes": 32,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 136,
+    "name": "Andres Lainela",
+    "votes": 32,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 176,
+    "name": "Jüri Derkun",
+    "votes": 31,
+    "electronic": 6,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 556,
+    "name": "Valev Kald",
+    "votes": 30,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 509,
+    "name": "Georg Männik",
+    "votes": 30,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Erakond Isamaa ja Res Publica Liit"
+  },
+  {
+    "number": 156,
+    "name": "Olev Piir",
+    "votes": 29,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 595,
+    "name": "Aleksandr Dormidontov",
+    "votes": 29,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 206,
+    "name": "Ksenia Võhma",
+    "votes": 29,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 140,
+    "name": "Nikolai Jakobišvili",
+    "votes": 28,
+    "electronic": 8,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 142,
+    "name": "Marika Istahl",
+    "votes": 28,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 144,
+    "name": "Aleksander Tšernikov",
+    "votes": 28,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 559,
+    "name": "Vladimir Drozdov",
+    "votes": 28,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 240,
+    "name": "Randon Värsi",
+    "votes": 28,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 257,
+    "name": "Mati Lehola",
+    "votes": 28,
+    "electronic": 11,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 258,
+    "name": "Heiki Merirand",
+    "votes": 28,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 964,
+    "name": "Ilmar Ibragimov",
+    "votes": 26,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Üksikkandidaadid"
+  },
+  {
+    "number": 649,
+    "name": "Yury Gordeev",
+    "votes": 26,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 105,
+    "name": "Beatrice Fenice",
+    "votes": 25,
+    "electronic": 6,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 596,
+    "name": "Alar Maas",
+    "votes": 25,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 113,
+    "name": "Raivo Algur",
+    "votes": 25,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 183,
+    "name": "Olav Kruus",
+    "votes": 25,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 117,
+    "name": "Aleks Saarnak",
+    "votes": 25,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 648,
+    "name": "Evhen Tsybulenko",
+    "votes": 25,
+    "electronic": 9,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 171,
+    "name": "Kalju Mätik",
+    "votes": 24,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 256,
+    "name": "Andrus Lelov",
+    "votes": 24,
+    "electronic": 10,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 526,
+    "name": "Mikk Paris",
+    "votes": 23,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 131,
+    "name": "Aulis Fischer",
+    "votes": 23,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 201,
+    "name": "Kristjan Siimson",
+    "votes": 22,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 165,
+    "name": "Wesse Allik",
+    "votes": 21,
+    "electronic": 6,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 570,
+    "name": "Sergei Sumin",
+    "votes": 21,
+    "electronic": 0,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 576,
+    "name": "Gennadi Vereštšagin",
+    "votes": 21,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 102,
+    "name": "Vadim Šaptšenko",
+    "votes": 20,
+    "electronic": 5,
+    "abroad": 1,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 592,
+    "name": "Raivo Olmet",
+    "votes": 20,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 585,
+    "name": "Magomed Murtuzaliev",
+    "votes": 19,
+    "electronic": 14,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 110,
+    "name": "Mario Märtson",
+    "votes": 19,
+    "electronic": 8,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 563,
+    "name": "Heino Rüütel",
+    "votes": 19,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 641,
+    "name": "Veana Heinmets",
+    "votes": 19,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 208,
+    "name": "Lauri Õun",
+    "votes": 19,
+    "electronic": 4,
+    "abroad": 2,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 109,
+    "name": "Andrea Green",
+    "votes": 18,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 184,
+    "name": "Toivo Kirtsi",
+    "votes": 18,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 211,
+    "name": "Tanel Liiva",
+    "votes": 18,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 650,
+    "name": "Eino Muruste",
+    "votes": 18,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 558,
+    "name": "Aleksei Davõdov",
+    "votes": 17,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 115,
+    "name": "Silja Trisberg",
+    "votes": 17,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 567,
+    "name": "Tõnu Veeremaa",
+    "votes": 17,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 569,
+    "name": "Eduard Tanvel",
+    "votes": 17,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 552,
+    "name": "Victor Polyakoff",
+    "votes": 16,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 114,
+    "name": "Taavi Keedus",
+    "votes": 16,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 125,
+    "name": "Ramo Pener",
+    "votes": 16,
+    "electronic": 6,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 8,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 573,
+    "name": "Viivi-Helbe Peljuhhovska",
+    "votes": 16,
+    "electronic": 0,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 106,
+    "name": "Marita Pitk",
+    "votes": 15,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 169,
+    "name": "Jaak Vimm",
+    "votes": 15,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 566,
+    "name": "Inna Kald",
+    "votes": 15,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 5,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 209,
+    "name": "Lauri Karp",
+    "votes": 15,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 687,
+    "name": "Eduard Kassin",
+    "votes": 15,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 11,
+    "party": "Eesti Vabaerakond"
+  },
+  {
+    "number": 103,
+    "name": "Aimar Jukkum",
+    "votes": 14,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 130,
+    "name": "Merlin Abedi",
+    "votes": 13,
+    "electronic": 7,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 166,
+    "name": "Margus Reemets",
+    "votes": 12,
+    "electronic": 5,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 565,
+    "name": "Madis Tänavsuu",
+    "votes": 12,
+    "electronic": 0,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 119,
+    "name": "Allan Jaakus",
+    "votes": 12,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 6,
+    "party": "Rahva Ühtsuse Erakond"
+  },
+  {
+    "number": 555,
+    "name": "Jekaterina Kravtsova",
+    "votes": 11,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 557,
+    "name": "Vladimir Krutšinin",
+    "votes": 11,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 167,
+    "name": "Edgar Viigimäe",
+    "votes": 11,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 560,
+    "name": "Svetlana Moskvina",
+    "votes": 11,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 3,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 521,
+    "name": "Serge Tjurin",
+    "votes": 10,
+    "electronic": 4,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 2,
+    "party": "Erakond Eestimaa Rohelised"
+  },
+  {
+    "number": 553,
+    "name": "Diana Vinogradova",
+    "votes": 9,
+    "electronic": 0,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 261,
+    "name": "Tiina Espenberg",
+    "votes": 9,
+    "electronic": 3,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 12,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 571,
+    "name": "Marijam Rannak",
+    "votes": 8,
+    "electronic": 0,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 9,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 210,
+    "name": "Piret Janis",
+    "votes": 6,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 7,
+    "party": "Eesti Konservatiivne Rahvaerakond"
+  },
+  {
+    "number": 574,
+    "name": "Andres Laidvee",
+    "votes": 6,
+    "electronic": 1,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 10,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 554,
+    "name": "Ada Leist",
+    "votes": 3,
+    "electronic": 0,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 1,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  },
+  {
+    "number": 564,
+    "name": "Aleksandr Pauri",
+    "votes": 2,
+    "electronic": 2,
+    "abroad": 0,
+    "mandate": "#N/A",
+    "district": 4,
+    "party": "Eestimaa Ühendatud Vasakpartei"
+  }
+]
